@@ -12,3 +12,12 @@
 foo = 3;
 console.log(foo);
 var foo;
+
+myFunc();
+
+function myFunc() {
+    console.log("Test");
+}
+
+myFunc();
+
